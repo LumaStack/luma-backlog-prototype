@@ -3,7 +3,7 @@ package app
 import (
 	"path/filepath"
 
-	"github.com/lumastack/luma-backlog/internal/corpus"
+	"github.com/lumastack/luma-backlog-prototype/internal/corpus"
 )
 
 // CreateRequest asks for a record.

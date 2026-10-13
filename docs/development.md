@@ -39,7 +39,7 @@ project it reads that project's backlog, which is how this tool gets used
 before there is a release:
 
 ```
-cd ../luma-foreman && backlog list work-item
+cd ../luma-foreman-prototype && backlog list work-item
 ```
 
 ### What not to do, and why
@@ -168,7 +168,7 @@ site, because the package name is part of every identifier. That is what moved
 ### The command line
 
 **[clig.dev](https://clig.dev)**, adopted as a bundle
-(`.luma/bundles/lumastack/luma-catalog/command-line-interface`) — which means it
+(`.luma/bundles/lumastack/luma-catalog-prototype/command-line-interface`) — which means it
 is followed unless a decision in force says otherwise, and a departure is
 recorded rather than merely taken. It settled noun-verb ordering, the exit
 codes, what a bare invocation does, and that commands do not prompt

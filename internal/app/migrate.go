@@ -1,7 +1,7 @@
 package app
 
 import (
-	"github.com/lumastack/luma-backlog/internal/migrate"
+	"github.com/lumastack/luma-backlog-prototype/internal/migrate"
 )
 
 // MigrateKeysRequest asks for every work item to move to the configured key

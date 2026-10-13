@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/lumastack/luma-backlog/internal/env"
-	"github.com/lumastack/luma-backlog/internal/record"
+	"github.com/lumastack/luma-backlog-prototype/internal/env"
+	"github.com/lumastack/luma-backlog-prototype/internal/record"
 )
 
 func initialized(t *testing.T) (*App, string) {

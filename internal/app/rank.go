@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/lumastack/luma-backlog/internal/corpus"
+	"github.com/lumastack/luma-backlog-prototype/internal/corpus"
 )
 
 // Where a record goes in the order. Exactly one is set.

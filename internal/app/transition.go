@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/lumastack/luma-backlog/internal/corpus"
+	"github.com/lumastack/luma-backlog-prototype/internal/corpus"
 )
 
 // TransitionRequest moves a work item to another workflow status.

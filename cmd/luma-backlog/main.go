@@ -6,7 +6,7 @@ package main
 import (
 	"os"
 
-	"github.com/lumastack/luma-backlog/internal/cli"
+	"github.com/lumastack/luma-backlog-prototype/internal/cli"
 )
 
 func main() {

@@ -6,18 +6,18 @@ Every container has an index. This is the project's: one entry per bundle, what 
 
 ## Offered — open a bundle's index when its line matches the work
 
-- `lumastack/luma-catalog/backlog` 0.49.0 — The record types a luma-backlog corpus conforms to, and the procedures for the things somebody does to a backlog — what an agent needs in order to work one well.
-- `lumastack/luma-catalog/backlog-ideas` 0.15.0 — Ideas as individual files rather than one growing IDEAS.md — what earns a file, how capture stays fast, and how the list gets tended rather than accumulating.
-- `lumastack/luma-catalog/bundle-manager` 0.17.0 — Creating, updating, auditing, repairing, migrating and retiring bundles — the layout they use and which catalog they belong in.
-- `lumastack/luma-catalog/command-line-interface` 0.5.0 — How this project designs its command line — the guidelines it follows, and the style guide its own commands are written to.
-- `lumastack/luma-catalog/decision-records` 0.13.0 — Decisions recorded with their reasoning, deferred alternatives, and re-open triggers. Spent decisions are archived rather than deleted.
-- `lumastack/luma-catalog/git-secrets` 0.8.0 — Keeping credentials and private identity out of a repository — names, personal addresses, home paths, machine names, tokens and key files. Prevention first, then audit.
-- `lumastack/luma-catalog/git-workflow` 0.9.0 — How changes get integrated — merge commits rather than squash or rebase, the repository settings that make it true, and how to prove a change actually landed.
-- `lumastack/luma-catalog/git-worktrees` 0.9.0 — Isolated worktrees for concurrent agents in one repository — where they live, what has to be provisioned, and how to tear them down without leaving wreckage.
-- `lumastack/luma-catalog/github-release` 0.10.0 — Cutting and publishing GitHub releases — choosing the version, the changelog, release titles and contents, and the gh procedure.
-- `lumastack/luma-catalog/luma-layout` 0.17.0 — The .luma directory every luma tool writes into — the four tiers, what belongs in each, and the committed-only invariant that makes it trustworthy.
-- `lumastack/luma-catalog/luma-maintainers` 0.16.0 — Working on the luma tools themselves — the repositories and the boundary each defends, publishing to the universal catalog, and changing a type without making every tool upgrade at once.
-- `lumastack/luma-catalog/luma-types` 0.16.0 — The type definitions more than one luma tool has to agree on — namespaced, vendored, and deliberately not built into the knowledge format.
-- `lumastack/luma-catalog/session-manager` 0.10.0 — Ending an agent session without losing what it learned — checkpoint while working, hand off to a successor, or close for good, each writing for a different reader.
-- `lumastack/luma-catalog/versioning` 0.9.0 — What a version number promises, when to bump which part, and the rules that get decided wrongly — for anything versioned, not only releases.
-- `lumastack/luma-catalog/violation-records` 0.6.0 — Violations as records — an agent did something that was not wanted, filed cheaply and read in aggregate, including when no rule existed to break.
+- `lumastack/luma-catalog-prototype/backlog` 0.49.1 — The record types a luma-backlog corpus conforms to, and the procedures for the things somebody does to a backlog — what an agent needs in order to work one well.
+- `lumastack/luma-catalog-prototype/backlog-ideas` 0.15.0 — Ideas as individual files rather than one growing IDEAS.md — what earns a file, how capture stays fast, and how the list gets tended rather than accumulating.
+- `lumastack/luma-catalog-prototype/bundle-manager` 0.17.0 — Creating, updating, auditing, repairing, migrating and retiring bundles — the layout they use and which catalog they belong in.
+- `lumastack/luma-catalog-prototype/command-line-interface` 0.6.0 — How this project designs its command line — the guidelines it follows, and the style guide its own commands are written to.
+- `lumastack/luma-catalog-prototype/decision-records` 0.13.0 — Decisions recorded with their reasoning, deferred alternatives, and re-open triggers. Spent decisions are archived rather than deleted.
+- `lumastack/luma-catalog-prototype/git-secrets` 0.8.0 — Keeping credentials and private identity out of a repository — names, personal addresses, home paths, machine names, tokens and key files. Prevention first, then audit.
+- `lumastack/luma-catalog-prototype/git-workflow` 0.9.0 — How changes get integrated — merge commits rather than squash or rebase, the repository settings that make it true, and how to prove a change actually landed.
+- `lumastack/luma-catalog-prototype/git-worktrees` 0.9.0 — Isolated worktrees for concurrent agents in one repository — where they live, what has to be provisioned, and how to tear them down without leaving wreckage.
+- `lumastack/luma-catalog-prototype/github-release` 0.10.0 — Cutting and publishing GitHub releases — choosing the version, the changelog, release titles and contents, and the gh procedure.
+- `lumastack/luma-catalog-prototype/luma-layout` 0.17.0 — The .luma directory every luma tool writes into — the four tiers, what belongs in each, and the committed-only invariant that makes it trustworthy.
+- `lumastack/luma-catalog-prototype/luma-maintainers` 0.16.0 — Working on the luma tools themselves — the repositories and the boundary each defends, publishing to the universal catalog, and changing a type without making every tool upgrade at once.
+- `lumastack/luma-catalog-prototype/luma-types` 0.16.0 — The type definitions more than one luma tool has to agree on — namespaced, vendored, and deliberately not built into the knowledge format.
+- `lumastack/luma-catalog-prototype/session-manager` 0.10.0 — Ending an agent session without losing what it learned — checkpoint while working, hand off to a successor, or close for good, each writing for a different reader.
+- `lumastack/luma-catalog-prototype/versioning` 0.9.0 — What a version number promises, when to bump which part, and the rules that get decided wrongly — for anything versioned, not only releases.
+- `lumastack/luma-catalog-prototype/violation-records` 0.6.0 — Violations as records — an agent did something that was not wanted, filed cheaply and read in aggregate, including when no rule existed to break.

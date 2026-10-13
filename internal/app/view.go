@@ -4,7 +4,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/lumastack/luma-backlog/internal/corpus"
+	"github.com/lumastack/luma-backlog-prototype/internal/corpus"
 )
 
 // View is one record as a surface needs to show it.

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/lumastack/luma-backlog/internal/corpus"
+	"github.com/lumastack/luma-backlog-prototype/internal/corpus"
 )
 
 // CloseRequest ends a work item, recording why.

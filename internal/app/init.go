@@ -3,9 +3,9 @@ package app
 import (
 	"errors"
 
-	"github.com/lumastack/luma-backlog/internal/config"
-	"github.com/lumastack/luma-backlog/internal/env"
-	"github.com/lumastack/luma-backlog/internal/root"
+	"github.com/lumastack/luma-backlog-prototype/internal/config"
+	"github.com/lumastack/luma-backlog-prototype/internal/env"
+	"github.com/lumastack/luma-backlog-prototype/internal/root"
 )
 
 // InitResult describes what a new backlog needed.

@@ -1,4 +1,4 @@
-module github.com/lumastack/luma-backlog
+module github.com/lumastack/luma-backlog-prototype
 
 go 1.25.12
 

@@ -5,10 +5,10 @@ import (
 	"path"
 	"strings"
 
-	"github.com/lumastack/luma-backlog/internal/config"
-	"github.com/lumastack/luma-backlog/internal/env"
-	"github.com/lumastack/luma-backlog/internal/record"
-	"github.com/lumastack/luma-backlog/internal/root"
+	"github.com/lumastack/luma-backlog-prototype/internal/config"
+	"github.com/lumastack/luma-backlog-prototype/internal/env"
+	"github.com/lumastack/luma-backlog-prototype/internal/record"
+	"github.com/lumastack/luma-backlog-prototype/internal/root"
 )
 
 // Spec is what a caller asked for. Everything absent is derived or omitted —

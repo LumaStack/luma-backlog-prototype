@@ -3,7 +3,7 @@ package app
 import (
 	"fmt"
 
-	"github.com/lumastack/luma-backlog/internal/corpus"
+	"github.com/lumastack/luma-backlog-prototype/internal/corpus"
 )
 
 // AbandonRequest records that an outcome is no longer required.

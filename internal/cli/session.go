@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/lumastack/luma-backlog/internal/app"
+	"github.com/lumastack/luma-backlog-prototype/internal/app"
 )
 
 // open starts a session from the ambient facts this command was given.

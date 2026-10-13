@@ -1,7 +1,7 @@
 package app
 
 import (
-	"github.com/lumastack/luma-backlog/internal/corpus"
+	"github.com/lumastack/luma-backlog-prototype/internal/corpus"
 )
 
 // Observations are things noticed while doing something else. They are

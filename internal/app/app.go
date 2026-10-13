@@ -17,10 +17,10 @@ import (
 	"path"
 	"strings"
 
-	"github.com/lumastack/luma-backlog/internal/config"
-	"github.com/lumastack/luma-backlog/internal/corpus"
-	"github.com/lumastack/luma-backlog/internal/env"
-	"github.com/lumastack/luma-backlog/internal/root"
+	"github.com/lumastack/luma-backlog-prototype/internal/config"
+	"github.com/lumastack/luma-backlog-prototype/internal/corpus"
+	"github.com/lumastack/luma-backlog-prototype/internal/env"
+	"github.com/lumastack/luma-backlog-prototype/internal/root"
 )
 
 // Kind classifies a failure so an adapter can act on it without reading the

@@ -3,7 +3,7 @@ package app
 import (
 	"sort"
 
-	"github.com/lumastack/luma-backlog/internal/corpus"
+	"github.com/lumastack/luma-backlog-prototype/internal/corpus"
 )
 
 // RepairRequest asks for every work item's rank to be recomputed.
