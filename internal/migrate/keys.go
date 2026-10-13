@@ -6,9 +6,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/lumastack/luma-backlog/internal/corpus"
-	"github.com/lumastack/luma-backlog/internal/record"
-	"github.com/lumastack/luma-backlog/internal/root"
+	"github.com/lumastack/luma-backlog-prototype/internal/corpus"
+	"github.com/lumastack/luma-backlog-prototype/internal/record"
+	"github.com/lumastack/luma-backlog-prototype/internal/root"
 )
 
 // Options is how a key migration was asked for.

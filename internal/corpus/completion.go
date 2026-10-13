@@ -5,7 +5,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/lumastack/luma-backlog/internal/root"
+	"github.com/lumastack/luma-backlog-prototype/internal/root"
 )
 
 // Completion is the arithmetic behind closing a work item.

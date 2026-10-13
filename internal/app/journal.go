@@ -5,7 +5,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/lumastack/luma-backlog/internal/corpus"
+	"github.com/lumastack/luma-backlog-prototype/internal/corpus"
 )
 
 // JournalRequest reads or appends to a work item's journal.

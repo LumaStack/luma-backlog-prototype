@@ -39,7 +39,7 @@ project it reads that project's backlog, which is how this tool gets used
 before there is a release:
 
 ```
-cd ../luma-foreman && backlog list work-item
+cd ../luma-foreman-prototype && backlog list work-item
 ```
 
 ### What not to do, and why

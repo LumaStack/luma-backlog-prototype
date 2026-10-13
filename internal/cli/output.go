@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/lumastack/luma-backlog/internal/app"
+	"github.com/lumastack/luma-backlog-prototype/internal/app"
 )
 
 // The JSON shapes below are published contract (docs/spec.md §9.3), which is

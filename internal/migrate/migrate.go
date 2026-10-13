@@ -15,7 +15,7 @@
 package migrate
 
 import (
-	"github.com/lumastack/luma-backlog/internal/root"
+	"github.com/lumastack/luma-backlog-prototype/internal/root"
 )
 
 // openRepository returns the wide handle. The one call in the codebase that

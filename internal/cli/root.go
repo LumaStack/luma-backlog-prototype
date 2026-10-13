@@ -10,8 +10,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/lumastack/luma-backlog/internal/app"
-	"github.com/lumastack/luma-backlog/internal/env"
+	"github.com/lumastack/luma-backlog-prototype/internal/app"
+	"github.com/lumastack/luma-backlog-prototype/internal/env"
 	"github.com/spf13/cobra"
 )
 

@@ -2,7 +2,7 @@ package app
 
 import (
 	"fmt"
-	"github.com/lumastack/luma-backlog/internal/corpus"
+	"github.com/lumastack/luma-backlog-prototype/internal/corpus"
 )
 
 // Assignment is one field being written.

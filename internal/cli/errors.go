@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/lumastack/luma-backlog/internal/app"
+	"github.com/lumastack/luma-backlog-prototype/internal/app"
 )
 
 // coded pairs an error with the exit code a caller should see.

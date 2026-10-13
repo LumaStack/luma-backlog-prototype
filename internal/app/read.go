@@ -3,7 +3,7 @@ package app
 import (
 	"strings"
 
-	"github.com/lumastack/luma-backlog/internal/corpus"
+	"github.com/lumastack/luma-backlog-prototype/internal/corpus"
 )
 
 // Filter narrows a listing.

@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/lumastack/luma-backlog/internal/config"
-	"github.com/lumastack/luma-backlog/internal/env"
+	"github.com/lumastack/luma-backlog-prototype/internal/config"
+	"github.com/lumastack/luma-backlog-prototype/internal/env"
 )
 
 // newApp builds a project in a temporary directory with a fixed clock and a

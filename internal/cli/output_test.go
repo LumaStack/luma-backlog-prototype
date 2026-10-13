@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/lumastack/luma-backlog/internal/app"
+	"github.com/lumastack/luma-backlog-prototype/internal/app"
 )
 
 // Every field a listing can show reaches the JSON, and is wired through rather

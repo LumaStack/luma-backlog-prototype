@@ -7,8 +7,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/lumastack/luma-backlog/internal/record"
-	"github.com/lumastack/luma-backlog/internal/root"
+	"github.com/lumastack/luma-backlog-prototype/internal/record"
+	"github.com/lumastack/luma-backlog-prototype/internal/root"
 )
 
 // Item is a record plus where it lives.

@@ -6,9 +6,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/lumastack/luma-backlog/internal/config"
-	"github.com/lumastack/luma-backlog/internal/env"
-	"github.com/lumastack/luma-backlog/internal/root"
+	"github.com/lumastack/luma-backlog-prototype/internal/config"
+	"github.com/lumastack/luma-backlog-prototype/internal/env"
+	"github.com/lumastack/luma-backlog-prototype/internal/root"
 )
 
 // The spellings come from WORK-0082's capture, and every one of them names

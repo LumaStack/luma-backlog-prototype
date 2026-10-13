@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/lumastack/luma-backlog/internal/root"
+	"github.com/lumastack/luma-backlog-prototype/internal/root"
 )
 
 // repo builds a project with a backlog and whatever else is asked for, so a

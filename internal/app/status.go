@@ -1,8 +1,8 @@
 package app
 
 import (
-	"github.com/lumastack/luma-backlog/internal/config"
-	"github.com/lumastack/luma-backlog/internal/corpus"
+	"github.com/lumastack/luma-backlog-prototype/internal/config"
+	"github.com/lumastack/luma-backlog-prototype/internal/corpus"
 )
 
 // applyStatus moves a record to a workflow status and rewrites its rank to

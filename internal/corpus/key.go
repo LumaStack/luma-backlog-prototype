@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/lumastack/luma-backlog/internal/config"
-	"github.com/lumastack/luma-backlog/internal/root"
+	"github.com/lumastack/luma-backlog-prototype/internal/config"
+	"github.com/lumastack/luma-backlog-prototype/internal/root"
 )
 
 // keyPattern matches anything written as a key: BACK-0002, work-2,
